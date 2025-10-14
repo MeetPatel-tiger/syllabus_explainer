@@ -61,27 +61,37 @@ It’s built to save time instead of reading through pages of text, you get a sh
 ## 🧩 How to Run It Locally
 
 ### Step 1: Clone the repo
-```bash
+```
 git clone https://github.com/<your-username>/SyllabusExplainer.git
 cd SyllabusExplainer/backend
-Step 2: Set up your environment
-bash
+```
+
+### Step 2: Set up your environment
+```
 Copy code
 python3 -m venv venv
 source venv/bin/activate      # On Windows: venv\Scripts\activate
 pip install -r requirements.txt
-Step 3: Add your Gemini API key
-Create a file named .env inside the backend folder and add:
+```
 
+### Step 3: Add your Gemini API key
+Create a file named .env inside the backend folder and add:
+```
 ini
 Copy code
 GEMINI_API_KEY=your_api_key_here
-Step 4: Run the Flask server
-bash
+```
+
+### Step 4: Run the Flask server
+```
 Copy code
 python app.py
-Step 5: Run the frontend
+```
+
+### Step 5: Run the frontend
+```
 Open the frontend folder in your browser or run it with your React development server.
 Make sure your Flask backend is running first.
+```
 
 
