@@ -1,18 +1,18 @@
 # 🧾 SyllabusExplainer
 
-## 🎥 Demo  
+## Demo  
 [▶️ Watch the 1-minute demo here](https://www.youtube.com/watch?v=SaBRyxjXSiM)
 
 ---
 
-## 💡 Why Did I Create This?
+## Why Did I Create This?
 
 I always felt like reading a syllabus is so boring and time-consuming.  
 When I asked other students if they actually read theirs, most said no and that’s when the idea for this project came to me!  
 
 ---
 
-## 🧠 What Is SyllabusExplainer?
+## What Is SyllabusExplainer?
 
 **SyllabusExplainer** is a simple web app that helps students quickly understand their course syllabi.  
 
@@ -23,7 +23,7 @@ It’s built to save time instead of reading through pages of text, you get a sh
 
 ---
 
-## ⚙️ What It Does
+## What It Does
 
 - 🖼️ Reads text from syllabus images or PDFs  
 - 💬 Summarizes key information in plain English  
@@ -32,7 +32,7 @@ It’s built to save time instead of reading through pages of text, you get a sh
 
 ---
 
-## 🔍 How It Works
+## How It Works
 
 1. Upload your syllabus file (`.jpg`, `.png`, or `.pdf`)  
 2. The Flask backend uses **Tesseract OCR** to extract the text  
@@ -41,7 +41,7 @@ It’s built to save time instead of reading through pages of text, you get a sh
 
 ---
 
-## 🏗️ Built With
+## Built With
 
 | Part | Technology |
 |------|-------------|
@@ -58,7 +58,7 @@ It’s built to save time instead of reading through pages of text, you get a sh
 
 ---
 
-## 🧩 How to Run It Locally
+## How to Run It Locally
 
 ### Step 1: Clone the repo
 ```
