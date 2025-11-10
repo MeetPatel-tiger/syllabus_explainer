@@ -1,7 +1,8 @@
 # 🧾 SyllabusExplainer
 
 ## Demo  
-[▶️ Watch the 1-minute demo here](https://www.youtube.com/watch?v=SaBRyxjXSiM)
+[▶️ Watch the 1-minute demo here](https://www.youtube.com/watch?v=SaBRyxjXSiM)  
+
 
 ---
 
